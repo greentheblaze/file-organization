@@ -1,8 +1,8 @@
 site_name: File Organization
-site_description: A practical, logical guide to enhancing general file management. It covers concepts such as naming files and creating directories.
+site_description: A practical, structured guide to improving general file management.
 site_url: https://greentheblaze.github.io/file-organization/
 
-repo_name: GreenTheBlaze/Roblox-Dev-Organization-Guide
+repo_name: greentheblaze/file-organization
 repo_url: https://github.com/greentheblaze/file-organization
 
 theme:
