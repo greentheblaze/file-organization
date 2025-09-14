@@ -1,0 +1,3 @@
+# Home
+
+This guide outlines some of the most widely used techniques for organizing files, along with a set of logical naming conventions for those files, to keep your digital workspace clear, consistent, and easy to navigate around.
